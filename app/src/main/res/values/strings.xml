@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Otp Verfication</string>
+    <string-array name="languages">
+        <item> English</item>
+        <item> Portugese</item>
+        <item> German </item>
+        <item> Chinese </item>
+    </string-array>
+</resources>
